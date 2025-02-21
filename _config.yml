@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "SmartMatch: Student-Legal Counslation and Case Management"
+title: "SmartMatch: Student-Legal Counslation & Case Management"
 email: 20096529@mail.wit.ie
 #description: 
 baseurl: "/Jordon.FYP.github.io" # the subpath of your site, e.g. /blog
@@ -32,6 +32,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - design.md
+  - aboutme.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
