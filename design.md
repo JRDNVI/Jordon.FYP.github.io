@@ -7,6 +7,9 @@ title: Design
 For a deeper look at my project, my desgin document can be seen here: 
 **[Semester 1 Design Document]({{ 'assets/docs/20096529-JordonCoady-FYP-Semester-One-Report.pdf' | relative_url }})**
 
+Follow my project here:
+**[EduCase Repository](https://github.com/JRDNVI/Student-Legal-Consultation)**
+
 ## Architecture
 
 ### Backend 

@@ -2,13 +2,16 @@
 layout: home
 ---
 
+Jordon Coady (20096529) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BSc (Hons) in Computer Forensics and Security
+
+
 ## Project Overview
 
-SmartMatch is a Progressive Web Application (PWA) designed to streamline the process of matching students with mentors and clients with solicitors, ensuring tailored guidance and legal assistance.
+EduCase is a Progressive Web Application (PWA) designed to streamline the process of matching students with mentors and clients with solicitors, ensuring tailored guidance and legal assistance.
 
-For students, SmartMatch provides a seamless way to connect with suitable mentors based on their academic background, career goals, and personal preferences. The platform offers educational resources, time management tools, and mental well-being support to help ease the transition into higher education.
+For students, EduCase provides a seamless way to connect with suitable mentors based on their academic background, career goals, and personal preferences. The platform offers educational resources, time management tools, and mental well-being support to help ease the transition into higher education.
 
-For clients, SmartMatch simplifies the process of finding the right solicitor by using a client allocation algorithm that considers the client’s legal needs and the solicitor’s expertise. The platform integrates a case management system (CMS) to help legal professionals efficiently organise and manage their caseloads.
+For clients, EduCase simplifies the process of finding the right solicitor by using a client allocation algorithm that considers the client’s legal needs and the solicitor’s expertise. The platform integrates a case management system (CMS) to help legal professionals efficiently organise and manage their caseloads.
 
 ---
 
@@ -41,7 +44,7 @@ For clients, SmartMatch simplifies the process of finding the right solicitor by
 
 ### Middleware:
 - **React Query**: Library for managing server-state, handling data fetching, caching, and synchronization within the React application.  
-- **WebSocket API**: Provides a full-duplex communication channel, allowing the client and server to communicate simultaneously—ideal for facilitating the in-app messaging system (Mozilla, 2024).  
+- **WebSocket API**: Provides a full-duplex communication channel, allowing the client and server to communicate simultaneously—ideal for facilitating the in-app messaging system.  
 
 ### Backend:
 - **AWS CloudFormation**: Allows me to manage and develop the below services as code. It will be used to build a serverless REST API and deploy it as a stack.  
