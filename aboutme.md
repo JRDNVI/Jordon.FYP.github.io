@@ -11,7 +11,7 @@ title: About
   <div>
     <h2>About Me</h2>
     <p>
-      Write your content here. This text will appear on the right side of the image.
+      Hello! I'm Jordon and I have a passion for software development, particularly web development and cloud development. I enjoy facing new challenges in tech and developing solutions (After looking at the same lines of code for hours!!!)
     </p>
   </div>
 </div>
