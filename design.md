@@ -5,7 +5,7 @@ title: Design
 # Project Design 
 
 For a deeper look at my project, my desgin document can be seen here: 
-**[Semester 1 Design Document]({{ 'assets/docs/Report.pdf' | relative_url }})**
+**[Semester 1 Design Document]({{ 'assets/docs/20096529-JordonCoady-FYP-Semester-One-Report.pdf' | relative_url }})**
 
 ## Architecture
 
