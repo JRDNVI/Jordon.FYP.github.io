@@ -31,7 +31,7 @@ For a deeper look at my project, my desgin document can be seen here:
 - Much like the above ERD, this diagram demonstrates how each enity will relate to each other. Again, giving a good idea of the information that will be stored on both; student and client.
 
 <div style="text-align: center; margin: 10px">
-  <img src="{{'/assets/images/studentERDV2.png' | relative_url }}" alt="CMS ERD" style="width: 700px; border-radius: 10%;" />
+  <img src="{{'assets/images/StudentERDV2.png' | relative_url }}" alt="CMS ERD" style="width: 700px; border-radius: 10%;" />
 </div>
 
 --- 
