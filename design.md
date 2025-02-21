@@ -13,7 +13,7 @@ Follow my project here:
 ## Architecture
 
 ### Backend 
-- The backend will be created using *Cloud Formation*. There will be two stacks one that provides authentication (AWS Cognito) and one that provides the PWA to access AWS services through API calls. The below image give an overview of the backend that will be constructed. (This is an oversimplification, there will be more lambdas used)
+- The backend will be created using CloudFormation, consisting of two stacks: one for authentication (AWS Cognito) and one for providing the PWA to access AWS services through API calls. The image below gives an overview of the backend architecture that will be constructed (note that this is an oversimplification, as more Lambdas will be used).
 
 <div style="text-align: center; margin: 10px">
   <img src="{{'/assets/images/AWS.png' | relative_url }}" alt="AWS" style="width: 700px; border-radius: 10%;" />
@@ -24,14 +24,14 @@ Follow my project here:
 ## Database Design 
 ### CMS Entity-Relationship Diagram (ERD)
 
-- The below ERD shows how the different enities relate to each other and what information will be stored. This gives a good overview of the capabilities of the CMS system.
+- The ERD below shows how the different entities relate to each other and what information will be stored. It provides a clear overview of the capabilities of the CMS system.
 
 <div style="text-align: center; margin: 10px">
   <img src="{{'/assets/images/CMS.png' | relative_url }}" alt="CMS ERD" style="width: 700px; border-radius: 10%;" />
 </div>
 
 ### Student/Mentor Entity-Relationship Diagram (ERD)
-- Much like the above ERD, this diagram demonstrates how each enity will relate to each other. Again, giving a good idea of the information that will be stored on both; student and client.
+- Similar to the ERD above, this diagram demonstrates how each entity will relate to one another, providing a clear understanding of the information that will be stored for both students and clients
 
 <div style="text-align: center; margin: 5px">
   <img src="{{'/assets/images/StudentERDV2.png' | relative_url }}" alt="CMS ERD" style="width: 700px; border-radius: 10%;" />
@@ -80,5 +80,5 @@ matching criteria, which can be seen in the above image .
   <img src="{{'/assets/images/siteMap.png' | relative_url }}" alt="CMS ERD" style="width: 700px; border-radius: 10%;" />
 </div>
 
-The above site map shows how a particular user type will filter through the Progress Web App. It's important to note that the PWA is serving four distinct user types, which can be seen by the colours in the site map. It also shows what each user will have access to.
+The above site map illustrates how each user type navigates through the Progressive Web App (PWA). It’s important to note that the PWA serves four distinct user types, which are represented by different colors in the site map. Additionally, the map highlights the features and access available to each user type.
 
